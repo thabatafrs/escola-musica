@@ -18,6 +18,7 @@
 body {
     background: linear-gradient(90deg, #ffe7d1 0%, #fff2e6 100%);
     padding: 0 1rem;
+    color: black
 }
 
 .mt-1 {
